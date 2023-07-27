@@ -107,7 +107,7 @@ Please run the [azure-key-vaults-assign-access-policies.ps1](https://raw.githubu
 ## Adding a user interface to ARM templates
 
 Azure allows you to create a “UI definition” json file to define how you would like your ARM template to look like, you can define textboxes, dropdown lists , sections,….etc to gather user input and parameters to feed into your ARM template. We have included "mainui.json" file as UI defination for our ARM template.
-If there is any change in the parameter in ARM template then we need to modify the UI defination accordingly.
+If there is any change in the parameter in ARM template then we need to modify the UI definition accordingly.
 
 ## Azure Services being deployed
 
